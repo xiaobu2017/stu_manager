@@ -26,21 +26,21 @@
 
 **系统功能图：**
 
-http://124.222.106.130:8081/xiaoyu/#/article/6
+http://111.231.74.123:8081/xiaoyu/#/article/6
 
 
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718094204663116.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718094217659290.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718094257829341.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718094204663116.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718094217659290.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718094257829341.png)
 
 
 
 在线浏览地址：
 
-http://124.222.106.130:8081/xiaoyu/#/article/6
+http://111.231.74.123:8081/xiaoyu/#/article/6
 
-[点此跳转](http://124.222.106.130:8081/xiaoyu/#/article/6)
+[点此跳转](http://111.231.74.123:8081/xiaoyu/#/article/6)
 
 用户名密码：
 
